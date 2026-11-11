@@ -1,0 +1,8 @@
+{
+  "name": "Remix My Manga Video Studio AI",
+  "description": "Transform your organized story scenes into cinematic manga-explainer videos with integrated AI image and voice generation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
